@@ -26,9 +26,9 @@ interface IndexEntry {
 }
 
 // Define the directory containing the delegate markdown files
-const delegateDirectory = path.join(__dirname, '..', 'delegates');
+const delegateDirectory = path.join(__dirname, '..');
 // Define the output path for the index file
-const indexFilePath = path.join(__dirname, '..', 'delegates', 'index.json');
+const indexFilePath = path.join(__dirname, '..', 'index.json');
 
 async function generateDelegateIndex() {
   try {
@@ -70,7 +70,7 @@ async function generateDelegateIndex() {
       let delegateMetrics: DelegateMetrics | undefined;
 
       // Construct the relative path from the repo root
-      const relativePath = path.join('delegates', file);
+      const relativePath = path.join(file);
 
       // If we find metrics, attach them to the index entry
       if (directoryContents.includes(metricsFileName)) {
@@ -81,9 +81,13 @@ async function generateDelegateIndex() {
           delegateMetrics = metrics;
         } catch (error) {
           if (error instanceof Error) {
-            console.error(`Error parsing metrics file for ${relativePath}: ${error.message}`);
+            console.error(
+              `Error parsing metrics file for ${relativePath}: ${error.message}`,
+            );
           } else {
-            console.error(`Error parsing metrics file for ${relativePath}: An unknown error occurred`);
+            console.error(
+              `Error parsing metrics file for ${relativePath}: An unknown error occurred`,
+            );
           }
         }
       }
@@ -99,7 +103,7 @@ async function generateDelegateIndex() {
       indexData.push({
         path: relativePath,
         metadata: metadata, // Metadata now includes the address if found
-        ...{ metrics: delegateMetrics }
+        ...{ metrics: delegateMetrics },
       });
     }
 
