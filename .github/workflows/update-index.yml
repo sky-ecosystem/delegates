@@ -1,0 +1,61 @@
+name: Update Delegates Index
+
+on:
+  push:
+    branches:
+      - main
+      - testnet
+    paths:
+      # Trigger on changes in delegates directory
+      - '**.md'
+      # Trigger on changes to scripts or workflow
+      - '.github/workflows/update-index.yml'
+      - 'scripts/**.ts'
+      - 'scripts/package.json'
+      - 'scripts/tsconfig.json'
+
+jobs:
+  update-index:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v3
+        with:
+          version: 9
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'pnpm'
+          cache-dependency-path: scripts/pnpm-lock.yaml
+
+      - name: Install dependencies
+        run: pnpm install --frozen-lockfile
+        working-directory: ./scripts
+
+      - name: Generate index files
+        run: pnpm run generate:delegates
+        working-directory: ./scripts
+
+      - name: Check for changes in index files
+        id: git-check
+        run: |
+          git diff --quiet index.json || echo "changed=true" >> $GITHUB_OUTPUT
+
+      - name: Commit and push changes
+        if: steps.git-check.outputs.changed == 'true'
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add index.json
+          git commit -m "chore: Update delegates index file [skip ci]"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
