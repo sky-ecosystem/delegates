@@ -1,10 +1,10 @@
-# Delegates Directory
+# Delegates
 
-This directory stores information about individual delegates within the governance system.
+This repo stores information about individual delegates within the Sky governance system.
 
-## Directory Structure
+## Structure
 
-The `delegates` directory is organized as follows:
+The `delegates` repo is organized as follows:
 
 ```
 delegates/
