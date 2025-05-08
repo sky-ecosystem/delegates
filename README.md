@@ -1,10 +1,10 @@
-# delegates
+# Delegates
 
 This repository contains information regarding Aligned Delegates active in the Sky Protocol.
 
-## Directory Structure
+## Structure
 
-The `delegates` directory is organized as follows:
+The `delegates` repo is organized as follows:
 
 ```
 delegates/
