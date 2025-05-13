@@ -1,1 +1,47 @@
-[]
+[
+  {
+    "path": "0x0F23dE72e1581857eacD6308aebb69cF3a49CC86/profile.md",
+    "metadata": {
+      "name": "cloaky",
+      "external_profile_url": "https://forum.sky.money/t/cloaky-ad-recognition-submission/21082",
+      "address": "0x0F23dE72e1581857eacD6308aebb69cF3a49CC86"
+    },
+    "metrics": {
+      "combined_participation": "No Data",
+      "poll_participation": "No Data",
+      "exec_participation": "No Data",
+      "communication": "No Data",
+      "start_date": "2023-06-12T00:00:00.000Z"
+    }
+  },
+  {
+    "path": "0x173a1c04B79Ed9266721c1154dAa29AddC0B9558/profile.md",
+    "metadata": {
+      "name": "BLUE",
+      "external_profile_url": "https://forum.sky.money/t/blue-ad-recognition-submission/20915",
+      "address": "0x173a1c04B79Ed9266721c1154dAa29AddC0B9558"
+    },
+    "metrics": {
+      "combined_participation": "No Data",
+      "poll_participation": "No Data",
+      "exec_participation": "No Data",
+      "communication": "No Data",
+      "start_date": "2023-10-09T00:00:00.000Z"
+    }
+  },
+  {
+    "path": "0xFc48fBcA739079aaB08216C4d5E506B96593753d/profile.md",
+    "metadata": {
+      "name": "Bonapublica",
+      "external_profile_url": "https://forum.sky.money/t/bonapublica-aligned-delegate-communication/20451",
+      "address": "0xFc48fBcA739079aaB08216C4d5E506B96593753d"
+    },
+    "metrics": {
+      "combined_participation": "No Data",
+      "poll_participation": "No Data",
+      "exec_participation": "No Data",
+      "communication": "No Data",
+      "start_date": "2023-04-07T00:00:00.000Z"
+    }
+  }
+]
