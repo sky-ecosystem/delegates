@@ -7,12 +7,15 @@ on:
       - testnet
     paths:
       # Trigger on changes in delegates directory
-      - '**.md'
+      - '**/profile.md'
+      - '**/metrics.json'
       # Trigger on changes to scripts or workflow
       - '.github/workflows/update-index.yml'
       - 'scripts/**.ts'
       - 'scripts/package.json'
       - 'scripts/tsconfig.json'
+  # Allow for workflows to be manually triggered
+  workflow_dispatch:
 
 jobs:
   update-index:
