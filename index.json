@@ -45,6 +45,66 @@
     }
   },
   {
+    "path": "0x555230eca835a808518ec3ea3082f05502bab850/profile.md",
+    "metadata": {
+      "name": "PBG",
+      "external_profile_url": "https://forum.sky.money/t/pbg-aligned-delegate-communication-platform/20471",
+      "address": "0x555230eca835a808518ec3ea3082f05502bab850"
+    },
+    "metrics": {
+      "combined_participation": "No Data",
+      "poll_participation": "No Data",
+      "exec_participation": "No Data",
+      "communication": "No Data",
+      "start_date": "2023-04-11T00:00:00.000Z"
+    }
+  },
+  {
+    "path": "0xd260762E442ea1893E5eD5E7d28984e19aaFbF5e/profile.md",
+    "metadata": {
+      "name": "aegisD",
+      "external_profile_url": "https://forum.sky.money/t/aegisd-ad-recognition-submission/26145",
+      "address": "0xd260762E442ea1893E5eD5E7d28984e19aaFbF5e"
+    },
+    "metrics": {
+      "combined_participation": "No Data",
+      "poll_participation": "No Data",
+      "exec_participation": "No Data",
+      "communication": "No Data",
+      "start_date": "2025-03-25T00:00:00.000Z"
+    }
+  },
+  {
+    "path": "0xE01684B17dF0aBBdAf97839277b194bE4E1A7E79/profile.md",
+    "metadata": {
+      "name": "Sky Staking",
+      "external_profile_url": "https://forum.sky.money/t/sky-staking-recognition-submission/26443",
+      "address": "0xE01684B17dF0aBBdAf97839277b194bE4E1A7E79"
+    },
+    "metrics": {
+      "combined_participation": "No Data",
+      "poll_participation": "No Data",
+      "exec_participation": "No Data",
+      "communication": "No Data",
+      "start_date": "2025-05-22T00:00:00.000Z"
+    }
+  },
+  {
+    "path": "0xead02d18529c10eedd995f760fdf5e380ddf3da6/profile.md",
+    "metadata": {
+      "name": "excel",
+      "external_profile_url": "https://forum.sky.money/t/excel-ad-recognition-submission/26227",
+      "address": "0xead02d18529c10eedd995f760fdf5e380ddf3da6"
+    },
+    "metrics": {
+      "combined_participation": "No Data",
+      "poll_participation": "No Data",
+      "exec_participation": "No Data",
+      "communication": "No Data",
+      "start_date": "2025-04-04T00:00:00.000Z"
+    }
+  },
+  {
     "path": "0xFc48fBcA739079aaB08216C4d5E506B96593753d/profile.md",
     "metadata": {
       "name": "Bonapublica",
