@@ -118,5 +118,20 @@
       "communication": "No Data",
       "start_date": "2023-04-07T00:00:00.000Z"
     }
+  },
+  {
+    "path": "0xFf7615E05EC1C8D5dED24AB50Bf74432666BEE2f/profile.md",
+    "metadata": {
+      "name": "Max Staking Yield",
+      "external_profile_url": "https://forum.sky.money/t/max-staking-yield-ad-recognition-submission/26462",
+      "address": "0xFf7615E05EC1C8D5dED24AB50Bf74432666BEE2f"
+    },
+    "metrics": {
+      "combined_participation": "No Data",
+      "poll_participation": "No Data",
+      "exec_participation": "No Data",
+      "communication": "No Data",
+      "start_date": "2025-05-28T00:00:00.000Z"
+    }
   }
 ]
