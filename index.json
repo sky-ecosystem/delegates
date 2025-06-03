@@ -45,6 +45,21 @@
     }
   },
   {
+    "path": "0x550E5EC00B9d26a3517ce772DdFE73e8Ed1672Ad/profile.md",
+    "metadata": {
+      "name": "Tango",
+      "external_profile_url": "https://forum.sky.money/t/tango-ad-recognition-submission/26310",
+      "address": "0x550E5EC00B9d26a3517ce772DdFE73e8Ed1672Ad"
+    },
+    "metrics": {
+      "combined_participation": "No Data",
+      "poll_participation": "No Data",
+      "exec_participation": "No Data",
+      "communication": "No Data",
+      "start_date": "2025-05-29T00:00:00.000Z"
+    }
+  },
+  {
     "path": "0x555230eca835a808518ec3ea3082f05502bab850/profile.md",
     "metadata": {
       "name": "PBG",
