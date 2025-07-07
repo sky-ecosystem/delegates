@@ -30,6 +30,21 @@
     }
   },
   {
+    "path": "0x2C89024c13A80bC1B662A3dB990524652C15221C/profile.md",
+    "metadata": {
+      "name": "Kuzmich",
+      "external_profile_url": "https://forum.sky.money/t/ad-recognition-submission/26743",
+      "address": "0x2C89024c13A80bC1B662A3dB990524652C15221C"
+    },
+    "metrics": {
+      "combined_participation": "No Data",
+      "poll_participation": "No Data",
+      "exec_participation": "No Data",
+      "communication": "No Data",
+      "start_date": "2025-07-01T00:00:00.000Z"
+    }
+  },
+  {
     "path": "0x4bed44a9839b8778f69bb6a6d9f843414377ae90/profile.md",
     "metadata": {
       "name": "WBC",
