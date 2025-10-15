@@ -7,10 +7,8 @@
       "address": "0x0F23dE72e1581857eacD6308aebb69cF3a49CC86"
     },
     "metrics": {
-      "combined_participation": "No Data",
-      "poll_participation": "No Data",
-      "exec_participation": "No Data",
-      "communication": "No Data",
+      "combined_participation": "100%",
+      "communication": "100%",
       "start_date": "2023-06-12T00:00:00.000Z"
     }
   },
@@ -22,10 +20,8 @@
       "address": "0x173a1c04B79Ed9266721c1154dAa29AddC0B9558"
     },
     "metrics": {
-      "combined_participation": "No Data",
-      "poll_participation": "No Data",
-      "exec_participation": "No Data",
-      "communication": "No Data",
+      "combined_participation": "100%",
+      "communication": "100%",
       "start_date": "2023-10-09T00:00:00.000Z"
     }
   },
@@ -37,10 +33,8 @@
       "address": "0x2C89024c13A80bC1B662A3dB990524652C15221C"
     },
     "metrics": {
-      "combined_participation": "No Data",
-      "poll_participation": "No Data",
-      "exec_participation": "No Data",
-      "communication": "No Data",
+      "combined_participation": "86.84%",
+      "communication": "1.52%",
       "start_date": "2025-07-01T00:00:00.000Z"
     }
   },
@@ -52,10 +46,8 @@
       "address": "0x4bed44a9839b8778f69bb6a6d9f843414377ae90"
     },
     "metrics": {
-      "combined_participation": "No Data",
-      "poll_participation": "No Data",
-      "exec_participation": "No Data",
-      "communication": "No Data",
+      "combined_participation": "100%",
+      "communication": "100%",
       "start_date": "2023-05-15T00:00:00.000Z"
     }
   },
@@ -67,10 +59,8 @@
       "address": "0x550E5EC00B9d26a3517ce772DdFE73e8Ed1672Ad"
     },
     "metrics": {
-      "combined_participation": "No Data",
-      "poll_participation": "No Data",
-      "exec_participation": "No Data",
-      "communication": "No Data",
+      "combined_participation": "95.45%",
+      "communication": "95.24%",
       "start_date": "2025-04-30T00:00:00.000Z"
     }
   },
@@ -82,10 +72,8 @@
       "address": "0x555230eca835a808518ec3ea3082f05502bab850"
     },
     "metrics": {
-      "combined_participation": "No Data",
-      "poll_participation": "No Data",
-      "exec_participation": "No Data",
-      "communication": "No Data",
+      "combined_participation": "100%",
+      "communication": "100%",
       "start_date": "2023-04-11T00:00:00.000Z"
     }
   },
@@ -97,10 +85,8 @@
       "address": "0xd260762E442ea1893E5eD5E7d28984e19aaFbF5e"
     },
     "metrics": {
-      "combined_participation": "No Data",
-      "poll_participation": "No Data",
-      "exec_participation": "No Data",
-      "communication": "No Data",
+      "combined_participation": "98.63%",
+      "communication": "98.62%",
       "start_date": "2025-03-25T00:00:00.000Z"
     }
   },
@@ -112,10 +98,8 @@
       "address": "0xE01684B17dF0aBBdAf97839277b194bE4E1A7E79"
     },
     "metrics": {
-      "combined_participation": "No Data",
-      "poll_participation": "No Data",
-      "exec_participation": "No Data",
-      "communication": "No Data",
+      "combined_participation": "94.12%",
+      "communication": "100%",
       "start_date": "2025-05-22T00:00:00.000Z"
     }
   },
@@ -127,10 +111,8 @@
       "address": "0xead02d18529c10eedd995f760fdf5e380ddf3da6"
     },
     "metrics": {
-      "combined_participation": "No Data",
-      "poll_participation": "No Data",
-      "exec_participation": "No Data",
-      "communication": "No Data",
+      "combined_participation": "92.09%",
+      "communication": "99.22%",
       "start_date": "2025-04-04T00:00:00.000Z"
     }
   },
@@ -142,10 +124,8 @@
       "address": "0xFc48fBcA739079aaB08216C4d5E506B96593753d"
     },
     "metrics": {
-      "combined_participation": "No Data",
-      "poll_participation": "No Data",
-      "exec_participation": "No Data",
-      "communication": "No Data",
+      "combined_participation": "100%",
+      "communication": "100%",
       "start_date": "2023-04-07T00:00:00.000Z"
     }
   },
@@ -157,10 +137,8 @@
       "address": "0xFf7615E05EC1C8D5dED24AB50Bf74432666BEE2f"
     },
     "metrics": {
-      "combined_participation": "No Data",
-      "poll_participation": "No Data",
-      "exec_participation": "No Data",
-      "communication": "No Data",
+      "combined_participation": "100%",
+      "communication": "100%",
       "start_date": "2025-05-28T00:00:00.000Z"
     }
   }
