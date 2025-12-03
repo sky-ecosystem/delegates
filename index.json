@@ -33,8 +33,8 @@
       "address": "0x2C89024c13A80bC1B662A3dB990524652C15221C"
     },
     "metrics": {
-      "combined_participation": "86.90%",
-      "communication": "6.85%",
+      "combined_participation": "86.96%",
+      "communication": "15.00%",
       "start_date": "2025-07-01T00:00:00.000Z"
     }
   },
@@ -59,8 +59,8 @@
       "address": "0x550E5EC00B9d26a3517ce772DdFE73e8Ed1672Ad"
     },
     "metrics": {
-      "combined_participation": "95.83%",
-      "communication": "93.48%",
+      "combined_participation": "95.19%",
+      "communication": "93.94%",
       "start_date": "2025-04-30T00:00:00.000Z"
     }
   },
@@ -85,7 +85,7 @@
       "address": "0xd260762E442ea1893E5eD5E7d28984e19aaFbF5e"
     },
     "metrics": {
-      "combined_participation": "99.17%",
+      "combined_participation": "98.25%",
       "communication": "100%",
       "start_date": "2025-03-25T00:00:00.000Z"
     }
@@ -98,7 +98,7 @@
       "address": "0xE01684B17dF0aBBdAf97839277b194bE4E1A7E79"
     },
     "metrics": {
-      "combined_participation": "94.55%",
+      "combined_participation": "94.74%",
       "communication": "100%",
       "start_date": "2025-05-22T00:00:00.000Z"
     }
@@ -111,8 +111,8 @@
       "address": "0xead02d18529c10eedd995f760fdf5e380ddf3da6"
     },
     "metrics": {
-      "combined_participation": "90.91%",
-      "communication": "99.09%",
+      "combined_participation": "90.35%",
+      "communication": "99.03%",
       "start_date": "2025-04-04T00:00:00.000Z"
     }
   },
