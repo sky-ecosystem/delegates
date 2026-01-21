@@ -13,6 +13,19 @@
     }
   },
   {
+    "path": "0x16A5a76904140e01F31C7e7ABD9fB81988469bA4/profile.md",
+    "metadata": {
+      "name": "OPEX",
+      "external_profile_url": "https://forum.sky.money/t/opex-ad-recognition-submission/27630",
+      "address": "0x16A5a76904140e01F31C7e7ABD9fB81988469bA4"
+    },
+    "metrics": {
+      "combined_participation": "N/A",
+      "communication": "N/A",
+      "start_date": "2026-01-21T00:00:00.000Z"
+    }
+  },
+  {
     "path": "0x173a1c04B79Ed9266721c1154dAa29AddC0B9558/profile.md",
     "metadata": {
       "name": "BLUE",
@@ -33,8 +46,8 @@
       "address": "0x2C89024c13A80bC1B662A3dB990524652C15221C"
     },
     "metrics": {
-      "combined_participation": "86.96%",
-      "communication": "15.00%",
+      "combined_participation": "86.60%",
+      "communication": "20.00%",
       "start_date": "2025-07-01T00:00:00.000Z"
     }
   },
@@ -59,8 +72,8 @@
       "address": "0x550E5EC00B9d26a3517ce772DdFE73e8Ed1672Ad"
     },
     "metrics": {
-      "combined_participation": "95.19%",
-      "communication": "93.94%",
+      "combined_participation": "96.91%",
+      "communication": "93.62%",
       "start_date": "2025-04-30T00:00:00.000Z"
     }
   },
@@ -85,7 +98,7 @@
       "address": "0xd260762E442ea1893E5eD5E7d28984e19aaFbF5e"
     },
     "metrics": {
-      "combined_participation": "98.25%",
+      "combined_participation": "97.94%",
       "communication": "100%",
       "start_date": "2025-03-25T00:00:00.000Z"
     }
@@ -98,7 +111,7 @@
       "address": "0xE01684B17dF0aBBdAf97839277b194bE4E1A7E79"
     },
     "metrics": {
-      "combined_participation": "94.74%",
+      "combined_participation": "100%",
       "communication": "100%",
       "start_date": "2025-05-22T00:00:00.000Z"
     }
@@ -111,8 +124,8 @@
       "address": "0xead02d18529c10eedd995f760fdf5e380ddf3da6"
     },
     "metrics": {
-      "combined_participation": "90.35%",
-      "communication": "99.03%",
+      "combined_participation": "88.66%",
+      "communication": "100%",
       "start_date": "2025-04-04T00:00:00.000Z"
     }
   },
