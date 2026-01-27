@@ -104,19 +104,6 @@
     }
   },
   {
-    "path": "0xE01684B17dF0aBBdAf97839277b194bE4E1A7E79/profile.md",
-    "metadata": {
-      "name": "Sky Staking",
-      "external_profile_url": "https://forum.sky.money/t/sky-staking-recognition-submission/26443",
-      "address": "0xE01684B17dF0aBBdAf97839277b194bE4E1A7E79"
-    },
-    "metrics": {
-      "combined_participation": "100%",
-      "communication": "100%",
-      "start_date": "2025-05-22T00:00:00.000Z"
-    }
-  },
-  {
     "path": "0xead02d18529c10eedd995f760fdf5e380ddf3da6/profile.md",
     "metadata": {
       "name": "excel",
