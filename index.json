@@ -91,6 +91,19 @@
     }
   },
   {
+    "path": "0x7bc5a420b6524Fa925F1321A01825438369E3c2e/profile.md",
+    "metadata": {
+      "name": "AxisLegati",
+      "external_profile_url": "https://forum.sky.money/t/axislegati-ad-recognition-submission/27677",
+      "address": "0x7bc5a420b6524Fa925F1321A01825438369E3c2e"
+    },
+    "metrics": {
+      "combined_participation": "N/A",
+      "communication": "N/A",
+      "start_date": "2026-02-09T00:00:00.000Z"
+    }
+  },
+  {
     "path": "0xd260762E442ea1893E5eD5E7d28984e19aaFbF5e/profile.md",
     "metadata": {
       "name": "aegisD",
