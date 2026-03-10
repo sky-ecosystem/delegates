@@ -20,7 +20,7 @@
       "address": "0x16A5a76904140e01F31C7e7ABD9fB81988469bA4"
     },
     "metrics": {
-      "combined_participation": "100%",
+      "combined_participation": "44.44%",
       "communication": "100%",
       "start_date": "2026-01-21T00:00:00.000Z"
     }
@@ -46,8 +46,8 @@
       "address": "0x2C89024c13A80bC1B662A3dB990524652C15221C"
     },
     "metrics": {
-      "combined_participation": "89.87%",
-      "communication": "25.00%",
+      "combined_participation": "90.14%",
+      "communication": "35.940%",
       "start_date": "2025-07-01T00:00:00.000Z"
     }
   },
@@ -72,8 +72,8 @@
       "address": "0x550E5EC00B9d26a3517ce772DdFE73e8Ed1672Ad"
     },
     "metrics": {
-      "combined_participation": "96.20%",
-      "communication": "93.42%",
+      "combined_participation": "94.29%",
+      "communication": "93.94%",
       "start_date": "2025-04-30T00:00:00.000Z"
     }
   },
@@ -98,9 +98,22 @@
       "address": "0x7bc5a420b6524Fa925F1321A01825438369E3c2e"
     },
     "metrics": {
-      "combined_participation": "N/A",
-      "communication": "N/A",
+      "combined_participation": "100%",
+      "communication": "33.33%",
       "start_date": "2026-02-09T00:00:00.000Z"
+    }
+  },
+  {
+    "path": "0x8a8D131502bb4868A0777bEf604547A8316a8f11/profile.md",
+    "metadata": {
+      "name": "Brendan Navigator",
+      "external_profile_url": "https://forum.sky.money/t/brendan-navigator-ad-recognition-submission/27748",
+      "address": "0x8a8D131502bb4868A0777bEf604547A8316a8f11"
+    },
+    "metrics": {
+      "combined_participation": "No Data",
+      "communication": "No Data",
+      "start_date": "2026-03-06T00:00:00.000Z"
     }
   },
   {
@@ -111,7 +124,7 @@
       "address": "0xd260762E442ea1893E5eD5E7d28984e19aaFbF5e"
     },
     "metrics": {
-      "combined_participation": "98.75%",
+      "combined_participation": "98.59%",
       "communication": "100%",
       "start_date": "2025-03-25T00:00:00.000Z"
     }
