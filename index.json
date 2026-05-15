@@ -20,7 +20,7 @@
       "address": "0x16A5a76904140e01F31C7e7ABD9fB81988469bA4"
     },
     "metrics": {
-      "combined_participation": "25.00%",
+      "combined_participation": "17.39%",
       "communication": "100%",
       "start_date": "2026-01-21T00:00:00.000Z"
     }
@@ -46,8 +46,8 @@
       "address": "0x2C89024c13A80bC1B662A3dB990524652C15221C"
     },
     "metrics": {
-      "combined_participation": "82.50%",
-      "communication": "81.25%",
+      "combined_participation": "81.58%",
+      "communication": "84.38%",
       "start_date": "2025-07-01T00:00:00.000Z"
     }
   },
@@ -72,8 +72,8 @@
       "address": "0x550E5EC00B9d26a3517ce772DdFE73e8Ed1672Ad"
     },
     "metrics": {
-      "combined_participation": "87.50%",
-      "communication": "93.94%",
+      "combined_participation": "81.58%",
+      "communication": "87.10%",
       "start_date": "2025-04-30T00:00:00.000Z"
     }
   },
@@ -98,8 +98,8 @@
       "address": "0x7bc5a420b6524Fa925F1321A01825438369E3c2e"
     },
     "metrics": {
-      "combined_participation": "100%",
-      "communication": "8.33%",
+      "combined_participation": "84.21%",
+      "communication": "6.67%",
       "start_date": "2026-02-09T00:00:00.000Z"
     }
   },
@@ -111,7 +111,7 @@
       "address": "0x8a8D131502bb4868A0777bEf604547A8316a8f11"
     },
     "metrics": {
-      "combined_participation": "100%",
+      "combined_participation": "88.89%",
       "communication": "100%",
       "start_date": "2026-03-06T00:00:00.000Z"
     }
@@ -124,7 +124,7 @@
       "address": "0xd260762E442ea1893E5eD5E7d28984e19aaFbF5e"
     },
     "metrics": {
-      "combined_participation": "97.50%",
+      "combined_participation": "97.37%",
       "communication": "100%",
       "start_date": "2025-03-25T00:00:00.000Z"
     }
@@ -137,7 +137,7 @@
       "address": "0xead02d18529c10eedd995f760fdf5e380ddf3da6"
     },
     "metrics": {
-      "combined_participation": "66.67%",
+      "combined_participation": "47.37%",
       "communication": "100%",
       "start_date": "2025-04-04T00:00:00.000Z"
     }
