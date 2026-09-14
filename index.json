@@ -46,8 +46,8 @@
       "address": "0x550E5EC00B9d26a3517ce772DdFE73e8Ed1672Ad"
     },
     "metrics": {
-      "combined_participation": "78.38%",
-      "communication": "86.21%",
+      "combined_participation": "83.78%",
+      "communication": "87.10%",
       "start_date": "2025-04-30T00:00:00.000Z"
     }
   },
@@ -72,8 +72,8 @@
       "address": "0x8a8D131502bb4868A0777bEf604547A8316a8f11"
     },
     "metrics": {
-      "combined_participation": "92.86%",
-      "communication": "100%",
+      "combined_participation": "79.41%",
+      "communication": "96.30%",
       "start_date": "2026-03-06T00:00:00.000Z"
     }
   },
@@ -85,7 +85,7 @@
       "address": "0xd260762E442ea1893E5eD5E7d28984e19aaFbF5e"
     },
     "metrics": {
-      "combined_participation": "100%",
+      "combined_participation": "97.30%",
       "communication": "100%",
       "start_date": "2025-03-25T00:00:00.000Z"
     }
